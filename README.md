@@ -1,4 +1,4 @@
-Project: Student Data Analysis
+Project: Student Performance Classififcation
 
 Description
 
